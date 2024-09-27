@@ -2,7 +2,7 @@
 this application is a monitoring tool application running on a specified port(8080)
 
 # Before running
-chmod +x build-deploy.sh
+chmod +x monitor-request.sh
 
 # Project Description
 
