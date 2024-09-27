@@ -4,6 +4,7 @@ this application is a monitoring tool application running on a specified port(80
 # Before running
 chmod +x build-deploy.sh
 
+# Project Description
 
 This application is a monitoring tool designed to observe and log incoming HTTP requests to a Spring Boot application running on a specified port. The key functionalities include:
 
